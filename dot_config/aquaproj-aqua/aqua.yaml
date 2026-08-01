@@ -20,7 +20,7 @@ packages:
     tags:
       - default
       - required
-  - name: junegunn/fzf@v0.74.1 # fuzzy finder
+  - name: junegunn/fzf@v0.74.2 # fuzzy finder
     tags:
       - default
       - required
@@ -134,7 +134,7 @@ packages:
   - name: fluxcd/flux2@v2.9.3 # flux CLI
     tags:
       - k8s
-  - name: helmfile/helmfile@v1.7.1
+  - name: helmfile/helmfile@v1.7.2
     tags:
       - k8s
   - name: helm/helm@v4.2.3
@@ -154,7 +154,7 @@ packages:
   - name: hashicorp/vault@v2.0.3
     tags:
       - optional
-  - name: astral-sh/uv@0.12.0 # universal version manager
+  - name: astral-sh/uv@0.12.1 # universal version manager
     tags:
       - optional
   - name: astral-sh/ruff@0.16.1 # Python linter/formatter
