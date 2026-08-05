@@ -89,7 +89,7 @@ packages:
   - name: bcicen/ctop@v0.7.7 # container monitor
     tags:
       - default
-  - name: JanDeDobbeleer/oh-my-posh@v30.5.0 # prompt theming engine
+  - name: JanDeDobbeleer/oh-my-posh@v30.6.2 # prompt theming engine
     tags:
       - default
       - required
@@ -154,7 +154,7 @@ packages:
   - name: hashicorp/vault@v2.0.4
     tags:
       - optional
-  - name: astral-sh/uv@0.12.1 # universal version manager
+  - name: astral-sh/uv@0.12.2 # universal version manager
     tags:
       - optional
   - name: astral-sh/ruff@0.16.1 # Python linter/formatter
