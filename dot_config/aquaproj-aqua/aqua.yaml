@@ -28,7 +28,7 @@ packages:
     tags:
       - default
       - required
-  - name: sxyazi/yazi@v26.5.6 # terminal file manager
+  - name: sxyazi/yazi@v26.8.15 # terminal file manager
     tags:
       - default
       - required
