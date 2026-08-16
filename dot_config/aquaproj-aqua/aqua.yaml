@@ -134,7 +134,7 @@ packages:
   - name: fluxcd/flux2@v2.9.4 # flux CLI
     tags:
       - k8s
-  - name: helmfile/helmfile@v1.7.3
+  - name: helmfile/helmfile@v1.7.4
     tags:
       - k8s
   - name: helm/helm@v4.2.4
