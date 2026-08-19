@@ -56,7 +56,7 @@ packages:
   - name: muesli/duf@v0.9.1 # df replacement
     tags:
       - default
-  - name: bootandy/dust@v1.2.4 # du replacement
+  - name: bootandy/dust@v1.2.5 # du replacement
     tags:
       - default
   - name: ouch-org/ouch@0.8.1 # archive tool
@@ -74,7 +74,7 @@ packages:
   - name: jqlang/jq@jq-1.8.1 # JSON processor
     tags:
       - default
-  - name: mikefarah/yq@v4.53.3 # YAML processor
+  - name: mikefarah/yq@v4.53.4 # YAML processor
     tags:
       - default
   - name: jesseduffield/lazygit@v0.64.1
@@ -145,7 +145,7 @@ packages:
   - name: bitwarden/clients@cli-v2026.4.1 # bw CLI (needed for SSH TOTP)
     tags:
       - optional
-  - name: hashicorp/terraform@v1.15.8
+  - name: hashicorp/terraform@v1.15.9
     tags:
       - optional
   - name: hashicorp/packer@v1.16.0
