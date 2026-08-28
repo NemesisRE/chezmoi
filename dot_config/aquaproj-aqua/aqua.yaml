@@ -24,7 +24,7 @@ packages:
     tags:
       - default
       - required
-  - name: zellij-org/zellij@v0.45.0 # terminal multiplexer
+  - name: zellij-org/zellij@v0.45.1 # terminal multiplexer
     tags:
       - default
       - required
