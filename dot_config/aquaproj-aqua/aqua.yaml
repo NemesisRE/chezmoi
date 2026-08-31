@@ -134,7 +134,7 @@ packages:
   - name: oras-project/oras@v1.3.4
     tags:
       - k8s
-  - name: fluxcd/flux2@v2.9.4 # flux CLI
+  - name: fluxcd/flux2@v2.9.5 # flux CLI
     tags:
       - k8s
   - name: helmfile/helmfile@v1.7.4
